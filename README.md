@@ -1,2 +1,2 @@
 # PythonProject
- Exercises and classes
+ Exercises
